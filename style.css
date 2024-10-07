@@ -1,5 +1,21 @@
 :root{
     --fundo:#8B008B;
     --cor-frente:#BA55D3;
-    
+    --cor-verso: #F5FFFA;
+    --destaque:#EE82EE;
+    --preto:	#000000;
+    --branco:#ffffff;
+}
+body{
+    background-color: var(--fundo);
+    martin: 0;
+
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: var(--branco);
+    color:var(--preto);
+    width: 100%;
+    text-aling: center;
 }
