@@ -1,4 +1,4 @@
-CriaCartao(
+CriaCartão(
         'Vestibular',
         '1.O que é o vestibular?',
         'O vestibular é um exame utilizado por universidades no Brasil para selecionar candidatos para cursos de graduação.')
