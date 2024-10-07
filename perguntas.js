@@ -80,7 +80,7 @@ criaCartao(
         
         CriaCartão (
         'Vestibular',
-        '17.Há limite de idade para fazer o vestibular?'
+        '17.Há limite de idade para fazer o vestibular?',
         'Não, desde que o candidato tenha concluído o ensino médio ou equivalente, não há limite de idade.').
         
         CriaCartão (
