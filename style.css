@@ -19,3 +19,7 @@ footer{
     width: 100%;
     text-aling: center;
 }
+
+#container{
+    padding: 4rem;
+}
