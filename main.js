@@ -18,7 +18,7 @@ let respostaEstaVisivel = false;
 
 function viraCartao (){
     respostaEstaVisivel = !respostaEstaVisivel;
-    cartao.classList.to
+    cartao.classList.toggle()
 }
 
 
