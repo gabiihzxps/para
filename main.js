@@ -13,5 +13,14 @@ cartao.innerHTML = `
     </div>
 </div>
 `
+
+let respostaEstaVisivel = false;  
+
+function viraCartao (){
+    respostaEstaVisivel = !respostaEstaVisivel;
+    cartao.classList.to
+}
+
+
 container.appendChild(cartao);
 }
