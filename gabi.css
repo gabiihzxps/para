@@ -1,7 +1,7 @@
 :root{
     --fundo:#8B008B;
     --cor-frente:#BA55D3;
-    --cor-verso: #F5FFFA;
+    --cor-verso: #d2a0df;
     --destaque:#EE82EE;
     --preto:	#000000;
     --branco:#ffffff;
@@ -50,6 +50,7 @@ footer{
 }
 .resposta-cartao{
     padding: 40px;
-    background-color: white;
+    background-color: var(--cor-verso);
+    color: white;
     display: none;
 }
